@@ -101,3 +101,17 @@
   font-weight: 600; /* Підкреслення заголовків */
   color: #555;
 }
+
+
+.load-more{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+ width: 150px;
+ height: 30px;
+ 
+}
+.is-hidden {
+  display: none;
+}
